@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601386760 source:d:\kuliah\konsep pemrograman\c\prak8no06\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601389095 source:d:\kuliah\konsep pemrograman\c\praktek minggu 4\prak9no06\main.c
+	<stdio.h>
+	<stdlib.h>
+
